@@ -12,8 +12,11 @@ PLA \(Polylactic Acid\), is probably the most commonly used filament for 3D prin
 
 ![Placeholder image](.gitbook/assets/0.jpeg)
 
-### Print Conditions
-
+<details>
+<summary>
+Print Conditions
+</summary>
+  
 | **Environment Conditions** | **Extrusion** | **Other:** |
 | :--- | :--- | :--- |
 | **Surface:** PEI \(recommended\), Glass or Paper | **Speed:** 3600mm/min for best quality, though speeds up to 10,000 mm/min are possible with the smaller nozzles | **Cooling Fan:** 100% after first layer |
@@ -21,6 +24,7 @@ PLA \(Polylactic Acid\), is probably the most commonly used filament for 3D prin
 | **Cabinet:** Ambient | **Retraction:** 3mm |  |
 |  | **Nozzles:** 0.25, 0.4, 0.8, 1.2 |  |
 
+</details>
 ### **Pros Cons**
 
 | ✔ | Low cost | ✘ | Low temperature resistance |
