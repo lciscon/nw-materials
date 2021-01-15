@@ -14,7 +14,7 @@ PLA \(Polylactic Acid\), is probably the most commonly used filament for 3D prin
 
 <details>
 <summary>
-Print Conditions
+### Print Conditions
 </summary>
   
 | **Environment Conditions** | **Extrusion** | **Other:** |
